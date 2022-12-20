@@ -1,0 +1,118 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hello",
+                "how are you doing",
+                "good day",
+                "hey",
+                "hi",
+                "greetings",
+                "what's up",
+                "how is it going"
+            ],
+            "responses": [
+                "Hello",
+                "Hii",
+                "Ya fine how is your day going?",
+                "Nothing much",
+                "Very good, how are you doing?",
+                "What can i do for you?."
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "bye!",
+                "see you later",
+                "bye have a good day",
+                "i am leaving",
+                "bela cao",
+                "wii be there later",
+                "good byee",
+                "bye bye"
+            ],
+            "responses": [
+                "yes bye bye",
+                "Sad to see you go ",
+                "Yes i will see you later bye",
+                "will miss you",
+                "Goodbye"
+            ]
+        },
+        {
+            "tag": "quote",
+            "patterns": [
+                "what is today's quote? ",
+                "quote",
+                "fav quote",
+                "some quotes maybe?"
+            ],
+            "responses": [
+                "Never interrupt your enemy when he is making a mistake.",
+                "There are only two forces in the world, the sword and the spirit. In the long run the sword will always be conquered by the spirit.",
+                "You must not fight too often with one enemy, or you will teach him all your art of war.",
+                "He who fears being conquered is sure of defeat.",
+                "Do not compare yourself to others. If you do so, you are insulting yourself.",
+                "Anyone can deal with victory. Only the mighty can bear defeat.",
+                "With persistent use of propaganda heaven itself can be presented to the people as if it were hell and, vice versa, the most miserable kind of life can be presented as if it were paradise.",
+                "The victor will never be asked if he told the truth. "
+            ]
+        },
+        {
+            "tag": "age",
+            "patterns": [
+                "what is your age? ",
+                "how old are you ?",
+                "age?",
+                "how old"
+            ],
+            "responses": [
+                "My age dependes upon what time it is right know",
+                "My age is 40min",
+                "I am 40min of age"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "what is your name? ",
+                "what shaould i call you?",
+                "name?",
+                "who are you"
+            ],
+            "responses": [
+                "My name is jarvis (just a rather very intllegent system)",
+                "You can call me jarvis",
+                "I am called jarvis"
+            ]
+        },
+        {
+            "tag": "shop",
+            "patterns": [
+                "id like to buy something",
+                "products please?",
+                "what do you sell?",
+                "what do you recommend"
+            ],
+            "responses": [
+                "i dont sell anythung but i can get you anything you want",
+                "There are no products just requests",
+                "i cannot reccomend something i have no info about"
+            ]
+        },
+        {
+            "tag": "hours",
+            "patterns": [
+                "what hours are you open?",
+                "working hours?",
+                "when do you satrt"
+            ],
+            "responses": [
+                "I am here at your service al the time ",
+                "24/6 sir"
+            ]
+        }
+    ]
+}
